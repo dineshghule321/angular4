@@ -9,6 +9,10 @@ For More documentation <a href="https://github.com/angular/angular-cli"> click h
 Both the CLI and generated project have dependencies that require Node 6.9.0 or higher, together
 with NPM 3 or higher.
 
+## Download Links
+* Node JS - <a href="https://nodejs.org/dist/v6.11.3/node-v6.11.3-x64.msi"> Download </a>
+* Visual Studio Code Editor - <a href="https://code.visualstudio.com/download" > Download</a>
+
 ## Table of Contents
 
 * [Installation](#installation)
