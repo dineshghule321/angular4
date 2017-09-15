@@ -3,6 +3,8 @@
 Angular 4 Tutorials For Beginners.
 
 Note : I removed <b>node_modules</b> folder from all project. Please include this folder before run any project.
+*e.g HelloWorld/node_module
+<br/><br/>
 For More documentation <a href="https://github.com/angular/angular-cli"> click here</a>
 
 ## Prerequisites
