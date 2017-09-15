@@ -13,7 +13,7 @@ with NPM 3 or higher.
 * Node JS - <a href="https://nodejs.org/dist/v6.11.3/node-v6.11.3-x64.msi"> Download </a>
 * Visual Studio Code Editor - <a href="https://code.visualstudio.com/download" > Download</a>
 
-## Table of Contents
+## Table of Contents 
 
 * [Installation](#installation)
 * [Usage](#usage)
